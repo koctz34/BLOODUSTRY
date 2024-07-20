@@ -1,7 +1,7 @@
 name: "blooddustry"
 displayName: "BLOODDUSTRY"
 author: "Ion - 7274 (koctz34)"
-description: "Blood.. MORE BLOOD!"
+description: "When a unit dies, blood remains. Blood repairs units if they step on it."
 version: "1.0"
 minGameVersion: "146"
 hidden: "false"
