@@ -1,0 +1,7 @@
+type: liquid
+color: 991111
+maxSpread: 10
+viscosity: 0.98
+name: Blood
+description: BLOOD IS FUEL
+effect: inblood

@@ -1,0 +1,7 @@
+abilities: [
+{
+type: LiquidExplodeAbility
+liquid: blood
+amount: 300
+}
+]
